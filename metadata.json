@@ -1,0 +1,5 @@
+{
+  "name": "Aura - Air Quality Companion",
+  "description": "Aura is your personal air quality companion, providing real-time air quality information, a detailed dashboard with historical and forecasted data, and a proactive chatbot that alerts you to poor air quality and offers recommendations.",
+  "requestFramePermissions": []
+}
